@@ -1,0 +1,11 @@
+{
+  "name": "gostack13-L1-4-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:flaviodelima/gostack13-L1-4-typescript.git",
+  "author": "Flavio de Lima <flaviolimpio@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
